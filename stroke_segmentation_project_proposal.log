@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.8)  13 JUN 2023 17:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.8)  15 JUN 2023 15:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -374,9 +374,16 @@ Package hyperref Info: Link coloring OFF on input line 41.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 54.
 
-(./summary.tex) (./background.tex) (./plan.tex) (./conclusion.tex) (./stroke_segmentation_project_proposal.bbl) [1
+(./summary.tex) (./background.tex) (./plan.tex) (./conclusion.tex) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./stroke_segmentation_project_proposal.aux)
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./stroke_segmentation_project_proposal.bbl
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 4.
+) [2] (./stroke_segmentation_project_proposal.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -384,18 +391,18 @@ Package rerunfilecheck Info: File `stroke_segmentation_project_proposal.out' has
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 11956 strings out of 476025
- 187901 string characters out of 5790018
- 1860388 words of memory out of 5000000
- 32260 multiletter control sequences out of 15000+600000
- 514606 words of font info for 51 fonts, out of 8000000 for 9000
+ 12063 strings out of 476025
+ 189512 string characters out of 5790018
+ 1868388 words of memory out of 5000000
+ 32308 multiletter control sequences out of 15000+600000
+ 516103 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,1095b,443s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on stroke_segmentation_project_proposal.pdf (1 page, 67502 bytes).
+ 75i,7n,76p,1095b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on stroke_segmentation_project_proposal.pdf (2 pages, 88999 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
- 10241 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 14 named destinations out of 1000 (max. 500000)
+ 14337 words of extra memory for PDF output out of 14400 (max. 10000000)
 

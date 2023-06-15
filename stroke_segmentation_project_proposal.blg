@@ -3,44 +3,56 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: stroke_segmentation_project_proposal.aux
 The style file: acm.bst
 Database file #1: references.bib
-You've used 1 entry,
+Warning--entry type for "noauthor_voxel-based_nodate" isn't style-file defined
+--line 175 of file references.bib
+Warning--to sort, need author or key in noauthor_voxel-based_nodate
+Warning--empty journal in ashtari_factorizer_2023
+Warning--empty journal in isensee_nnu-net_2021
+Warning--empty journal in kamalian_stroke_2019
+Warning--empty journal in liew_association_2023
+Warning--empty journal in noguchi_mri_1997
+Warning--empty publisher in siddique_automated_2022
+Warning--empty year in siddique_automated_2022
+Warning--empty journal in wheeler_early_2013
+You've used 11 entries,
             2253 wiz_defined-function locations,
-            534 strings with 4164 characters,
-and the built_in function-call counts, 466 in all, are:
-= -- 46
-> -- 12
+            576 strings with 6390 characters,
+and the built_in function-call counts, 4272 in all, are:
+= -- 364
+> -- 356
 < -- 0
-+ -- 5
-- -- 4
-* -- 31
-:= -- 68
-add.period$ -- 3
-call.type$ -- 1
-change.case$ -- 5
++ -- 145
+- -- 134
+* -- 357
+:= -- 754
+add.period$ -- 27
+call.type$ -- 11
+change.case$ -- 99
 chr.to.int$ -- 0
-cite$ -- 1
-duplicate$ -- 24
-empty$ -- 43
-format.name$ -- 4
-if$ -- 105
+cite$ -- 20
+duplicate$ -- 92
+empty$ -- 233
+format.name$ -- 134
+if$ -- 803
 int.to.chr$ -- 0
-int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 8
-num.names$ -- 2
-pop$ -- 9
+int.to.str$ -- 11
+missing$ -- 8
+newline$ -- 52
+num.names$ -- 20
+pop$ -- 124
 preamble$ -- 1
-purify$ -- 4
+purify$ -- 89
 quote$ -- 0
-skip$ -- 18
+skip$ -- 68
 stack$ -- 0
-substring$ -- 37
-swap$ -- 10
+substring$ -- 173
+swap$ -- 15
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 5
-width$ -- 2
-write$ -- 12
+type$ -- 42
+warning$ -- 9
+while$ -- 29
+width$ -- 13
+write$ -- 89
+(There were 10 warnings)

@@ -1,6 +1,9 @@
-Our plan is to gather data from our locally sourced dataset, as well as
-data from the ISLES 2022 challenge. We will then preprocess the data
-and train our five models on the data. We will then evaluate the
-performance of our models using the Dice coefficient as well as a
-five-fold cross validation. We will also compare our models to the
-state-of-the-art models from the ISLES 2022 challenge. 
+\par Our plan is to gather data from our locally sourced dataset, containing close to 60
+labeled FLAIR MRI images as well as data from the ISLES 2022 stroke segmnetation challenge. 
+We will then preprocess the images, by injesting the Nifti files, and extracting
+regions which could potetionally contain stroke lesions, as well as potetionally 
+normalizing the image intensities. The preporcessed data will then be used
+for training with the proposed models. We will be using the frontera system from
+the Texas Advanced Computing Center, equipped with 4 NVIDIA RTX Quadro 5000s.
+We will then evaluate the performance of our models using the five-fold cross validation, 
+and evaluate metrics such as the DICE coefficient, lesion count, and F1 score.

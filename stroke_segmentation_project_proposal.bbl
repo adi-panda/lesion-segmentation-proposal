@@ -1,8 +1,52 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
-\bibitem{lesk:1977}
-{\sc Lesk, M., and Kernighan, B.}
-\newblock Computer typesetting of technical journals on {UNIX}.
-\newblock In {\em Proceedings of American Federation of Information Processing Societies: 1977 National Computer Conference\/} (Dallas, Texas, 1977), pp.~879--888.
+\bibitem{noauthor_voxel-based_nodate}
+Voxel-based morphometry - an overview {\textbar} {ScienceDirect} topics.
+
+\bibitem{ashtari_factorizer_2023}
+{\sc Ashtari, P., Sima, D.~M., De~Lathauwer, L., Sappey-Marinier, D., Maes, F., and Van~Huffel, S.}
+\newblock Factorizer: A scalable interpretable approach to context modeling for medical image segmentation.
+\newblock 102706.
+
+\bibitem{he_mask_2018}
+{\sc He, K., Gkioxari, G., Dollár, P., and Girshick, R.}
+\newblock Mask r-{CNN}.
+
+\bibitem{isensee_nnu-net_2021}
+{\sc Isensee, F., Jaeger, P.~F., Kohl, S. A.~A., Petersen, J., and Maier-Hein, K.~H.}
+\newblock {nnU}-net: a self-configuring method for deep learning-based biomedical image segmentation.
+\newblock 203--211.
+\newblock Number: 2 Publisher: Nature Publishing Group.
+
+\bibitem{kamalian_stroke_2019}
+{\sc Kamalian, S., and Lev, M.~H.}
+\newblock Stroke imaging.
+\newblock 717--732.
+
+\bibitem{liew_association_2023}
+{\sc Liew, S.-L., Schweighofer, N., Cole, J., Zavaliangos-Petropulu, A., Lo, B., Han, L., Schmaal, L., Rennie~Donnelly, M., Jeong, J., Wang, Z., Abdullah, A., Kim, J., Hutton, A., Barisano, G., Borich, M., Boyd, L., Brodtmann, A., Buetefisch, C., and Thompson, P.}
+\newblock Association of brain age, lesion volume, and functional outcome in patients with stroke.
+
+\bibitem{milletari_v-net_2016}
+{\sc Milletari, F., Navab, N., and Ahmadi, S.-A.}
+\newblock V-net: Fully convolutional neural networks for volumetric medical image segmentation.
+
+\bibitem{noguchi_mri_1997}
+{\sc Noguchi, K., Ogawa, T., Inugami, A., Fujita, H., Hatazawa, J., Shimosegawa, E., Okudera, T., Uemura, K., and Seto, H.}
+\newblock {MRI} of acute cerebral infarction: a comparison of {FLAIR} and t2-weighted fast spin-echo imaging.
+\newblock 406--410.
+
+\bibitem{ronneberger_u-net_2015}
+{\sc Ronneberger, O., Fischer, P., and Brox, T.}
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+
+\bibitem{siddique_automated_2022}
+{\sc Siddique, M., Yang, D., He, Y., Xu, D., and Myronenko, A.}
+\newblock {\em Automated ischemic stroke lesion segmentation from 3D {MRI}}.
+
+\bibitem{wheeler_early_2013}
+{\sc Wheeler, H.~M., Mlynash, M., Inoue, M., Tipirneni, A., Liggins, J., Zaharchuk, G., Straka, M., Kemp, S., Bammer, R., Lansberg, M.~G., and Albers, G.~W.}
+\newblock Early diffusion-weighted imaging and perfusion-weighted imaging lesion volumes forecast final infarct size in {DEFUSE} 2.
+\newblock 681--685.
 
 \end{thebibliography}
