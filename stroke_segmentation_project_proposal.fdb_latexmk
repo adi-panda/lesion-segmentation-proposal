@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex stroke_segmentation_project_proposal"] 1686862750 "stroke_segmentation_project_proposal.aux" "stroke_segmentation_project_proposal.bbl" "stroke_segmentation_project_proposal" 1686862750 0
+["bibtex stroke_segmentation_project_proposal"] 1686862750 "stroke_segmentation_project_proposal.aux" "stroke_segmentation_project_proposal.bbl" "stroke_segmentation_project_proposal" 1689438231 0
   "./references.bib" 1686862707 25423 e85ee8f3f11e8d938a3c035750502282 ""
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/acm.bst" 1292289607 21064 c61a48664f3c347ce7f73c1a6a530506 ""
-  "stroke_segmentation_project_proposal.aux" 1686862750 1354 8e733c20ce5e81dcfa81ced1f204685e "pdflatex"
+  "stroke_segmentation_project_proposal.aux" 1689438230 1354 8e733c20ce5e81dcfa81ced1f204685e "pdflatex"
   (generated)
   "stroke_segmentation_project_proposal.bbl"
   "stroke_segmentation_project_proposal.blg"
   (rewritten before read)
-["pdflatex"] 1686862750 "/Users/adipanda/Research/stroke_segmentation/project_proposal/stroke_segmentation_project_proposal.tex" "stroke_segmentation_project_proposal.pdf" "stroke_segmentation_project_proposal" 1686862750 0
-  "/Users/adipanda/Research/stroke_segmentation/project_proposal/stroke_segmentation_project_proposal.tex" 1686861713 2340 9b3020103fbbbcfafc4535c191adb947 ""
+["pdflatex"] 1689438230 "/Users/adipanda/Research/stroke_segmentation/project_proposal/stroke_segmentation_project_proposal.tex" "stroke_segmentation_project_proposal.pdf" "stroke_segmentation_project_proposal" 1689438231 0
+  "/Users/adipanda/Research/stroke_segmentation/project_proposal/stroke_segmentation_project_proposal.tex" 1689005723 2512 18d61e6a1e99f03fbcc773353ab46691 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -77,12 +77,13 @@
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1686250442 7883461 22a8a5091a6bc2d2982351bf20a562a6 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
   "background.tex" 1686862748 1516 245d651b19f00dd333add9c1e3f5b112 ""
-  "conclusion.tex" 1686862717 325 0185a439452a8d11ded330638e8bdbec ""
-  "plan.tex" 1686862640 748 6f386de41a7808c9f09232a6b4a1fcfa ""
-  "stroke_segmentation_project_proposal.aux" 1686862750 1354 8e733c20ce5e81dcfa81ced1f204685e "pdflatex"
+  "conclusion.tex" 1686862760 325 0185a439452a8d11ded330638e8bdbec ""
+  "datasets.tex" 1689438153 544 c24402c6ef88f89d07d3056d0bdabadc ""
+  "plan.tex" 1689438230 723 05c779d5223c38d05d54e1e0cf2250dd ""
+  "stroke_segmentation_project_proposal.aux" 1689438230 1354 8e733c20ce5e81dcfa81ced1f204685e "pdflatex"
   "stroke_segmentation_project_proposal.bbl" 1686862750 2470 954e6aefabb605fedbd3524da1b0aec6 "bibtex stroke_segmentation_project_proposal"
-  "stroke_segmentation_project_proposal.out" 1686862750 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "stroke_segmentation_project_proposal.tex" 1686861713 2340 9b3020103fbbbcfafc4535c191adb947 ""
+  "stroke_segmentation_project_proposal.out" 1689438230 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "stroke_segmentation_project_proposal.tex" 1689005723 2512 18d61e6a1e99f03fbcc773353ab46691 ""
   "summary.tex" 1686858702 880 52e6c185f5c52e66ba92d63505378937 ""
   (generated)
   "stroke_segmentation_project_proposal.aux"
